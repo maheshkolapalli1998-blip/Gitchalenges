@@ -1,7 +1,5 @@
+<<<<<<< HEAD
 from flask import window
-
-Hellos
-import os
 
 app = Flask(__name__)
 second
