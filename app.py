@@ -2,8 +2,9 @@ from flask import Flask
 import os
 
 app = Flask(__name__)
+second
 
-@app.route("/")
+app.route("/")
 def hello():
     return "updated Flask sample application on azure hghapp service updated version-6"
 
