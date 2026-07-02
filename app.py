@@ -1,5 +1,5 @@
-from flask import mac
-import os
+<<<<<<< HEAD
+from flask import windows
 
 app = Flask(__name__)
 second
